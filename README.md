@@ -10,7 +10,7 @@
 Este proyecto desarrolla un **modelo predictivo de machine learning** para predecir el monto de facturación (Monto USD) de RetailPlus, una empresa líder del sector minorista peruano. El modelo ayuda a optimizar la planificación de ventas, gestión de inventario y estrategias comerciales.
 
 ### 🎯 Objetivo Principal
-Predecir el monto de facturación utilizando variables como características del cliente, producto, condiciones de pago y ubicación geográfica, logrando un **R² de 0.8965** con Random Forest.
+Predecir el monto de facturación utilizando variables como características del cliente, producto, condiciones de pago y ubicación geográfica.
 
 ## 🏢 Contexto de Negocio
 
